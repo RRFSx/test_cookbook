@@ -7,5 +7,7 @@ authors:
     orcid: https://orcid.org/0000-0002-9961-3821
     website: https://github.com/brian-rose
     affiliation: CIRES and NOAA/GSL
+  - family-names: Bhimireddy
+    given-names: Sudheer
 title: "Test Cookbook"
 abstract: "A test cookbook."
