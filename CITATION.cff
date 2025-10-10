@@ -14,5 +14,7 @@ authors:
   - family-names: Ge
     given-names: Guoqing
     affiliation: CIRES and NOAA/GSL
+  - family-names: Lin
+    given-names: Liaofan
 title: "Test Cookbook"
 abstract: "A test cookbook."
