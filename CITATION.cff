@@ -1,7 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this cookbook, please cite it as below."
 authors:
-  # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
   - family-names: Last
     given-names: First
     orcid: https://orcid.org/0000-0002-9961-3821
@@ -9,5 +8,18 @@ authors:
     affiliation: CIRES and NOAA/GSL
   - family-names: Bhimireddy
     given-names: Sudheer
+  - family-names: Hu
+    given-names: Junjun
+    orcid: https://orcid.org/0000-0002-9961-3821
+    website: https://github.com/brian-rose
+    affiliation: CIRES and NOAA/GSL
+  - family-names: Ge
+    given-names: Guoqing
+    website: https://github.com/brian-rose
+    affiliation: CIRES and NOAA/GSL
+  - family-names: Lin
+    given-names: Liaofan
+  - family-name: Zhou
+    given-name: Chunhua
 title: "Test Cookbook"
 abstract: "A test cookbook."
