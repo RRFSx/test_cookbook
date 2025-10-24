@@ -17,5 +17,7 @@ authors:
     affiliation: CIRES and NOAA/GSL
   - family-names: Lin
     given-names: Liaofan
+  - family-name: Zhou
+    given-name: Chunhua
 title: "Test Cookbook"
 abstract: "A test cookbook."
